@@ -126,7 +126,7 @@
     }
 }
 
-@media screen and (min-width: 1366px) {
+@media screen and (min-width: 1728px) {
    .carrosel__container {
     display: flex;
     margin: 0 10vw 3em 10vw;
@@ -139,7 +139,7 @@
    }
 
    .swiper {
-    width: 50%;
+    width: 40%;
    }
 
    .swiper-button-prev, .swiper-button-next {
